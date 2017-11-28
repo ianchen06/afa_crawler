@@ -1,0 +1,6 @@
+venv
+*.pyc
+data
+fruit_data
+*.csv
+.ipynb*
